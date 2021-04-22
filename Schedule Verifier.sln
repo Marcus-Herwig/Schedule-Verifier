@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule Verifier", "Schedule Verifier\Schedule Verifier.csproj", "{ABF1E68E-8184-4C6D-BFD1-68B269A508AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF1E68E-8184-4C6D-BFD1-68B269A508AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF1E68E-8184-4C6D-BFD1-68B269A508AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF1E68E-8184-4C6D-BFD1-68B269A508AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF1E68E-8184-4C6D-BFD1-68B269A508AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F03B92FF-4116-4FB1-92FA-9E0BA7C59A91}
+	EndGlobalSection
+EndGlobal
